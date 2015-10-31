@@ -6,7 +6,6 @@
 	, "dependencies": {
 		"jsdom": "^7.0.2",
 		"htmlencode": "0.0.4",
-		"contextify": "0.1.3",
 		"underscore": "latest",
 		"string": "latest"
 	}
